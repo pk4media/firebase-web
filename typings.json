@@ -1,0 +1,7 @@
+{
+  "name": "firebase-web",
+  "main": "index.d.ts",
+  "globalDependencies": {
+    "firebase-node": "github:pk4media/firebase-node"
+  }
+}
